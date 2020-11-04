@@ -1,0 +1,26 @@
+.search-wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.home-page-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.img-search {
+  height: 120px;
+  width: 500px;
+}
+
+.btn-search {
+  margin-left: 15px;
+  max-height: 40px;
+  padding: 0px 20px;
+  background-color: #af2e1c;
+  border: none;
+  border-radius: 5px;
+  color: #fff;
+}

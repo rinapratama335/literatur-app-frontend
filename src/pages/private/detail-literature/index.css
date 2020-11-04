@@ -1,0 +1,30 @@
+.detail-image {
+  height: 543px;
+  width: 400px;
+  border-radius: 5px;
+}
+
+.orange {
+  color: #af2e1c;
+}
+
+.btn-download {
+  background-color: #af2e1c;
+  color: #fff;
+  padding: 10px 15px;
+  border: none;
+  border-radius: 5px;
+}
+
+.icon {
+  margin: 5px 0;
+}
+
+.gap-bottom {
+  margin-bottom: 45px;
+}
+
+.gap-vertical {
+  margin-top: 50px;
+  margin-bottom: 30px;
+}

@@ -1,0 +1,23 @@
+.content-title {
+  margin-bottom: 45px;
+  margin-top: 15px;
+}
+
+.file:hover {
+  text-decoration: none;
+}
+
+.btn-confirm {
+  padding: 4px 15px;
+  border: none;
+  border-radius: 5px;
+}
+
+.btn-cancel {
+  background-color: #ff0742;
+  margin-right: 22px;
+}
+
+.btn-approve {
+  background-color: #0acf83;
+}

@@ -1,0 +1,24 @@
+.cover {
+  height: 350px;
+  width: "100%";
+  border-radius: 5px;
+}
+
+.desc-wrap {
+  margin-left: 10px;
+}
+
+.desc {
+  display: "flex";
+  flex-direction: "row";
+  justify-content: "space-between";
+}
+
+.col-title {
+  margin-top: 15px;
+  font-size: 20px;
+}
+
+.status {
+  color: #929292;
+}

@@ -1,0 +1,35 @@
+.bg-black {
+  background-color: #212121;
+}
+
+.modal-body {
+  color: #fff;
+}
+
+.modal-title {
+  font-size: 30px;
+  font-weight: bold;
+  text-align: center;
+}
+
+.form {
+  margin-top: 35px;
+}
+
+.form-group {
+  margin-bottom: 30px;
+}
+
+.btn {
+  background-color: #af2e1c;
+  width: 100%;
+  border: none;
+  margin-top: 20px;
+  margin-bottom: 25px;
+  padding: 13px;
+  color: #fff;
+}
+
+.account-confirmation {
+  float: right;
+}

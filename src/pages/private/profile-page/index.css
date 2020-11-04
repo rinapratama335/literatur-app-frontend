@@ -1,0 +1,53 @@
+.white {
+  color: #fff;
+}
+
+.gray {
+  color: #8a8c90;
+}
+
+.profile-title {
+  font-size: 36px;
+  font-weight: bold;
+  margin-bottom: 35px;
+}
+
+.gap-top {
+  margin-top: 60px;
+}
+
+.desc-profile {
+  background-color: #252525;
+  padding: 15px;
+}
+
+.desc-item {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-bottom: 5px;
+}
+
+.icon {
+  color: #af2e1c;
+  margin: 15px;
+}
+
+.item {
+  margin-bottom: 0;
+  padding-top: 15px;
+}
+
+.col-right {
+  float: right;
+  right: 0;
+}
+
+.photo-profile {
+  height: 240px;
+  width: 250px;
+}
+
+.my-literatures {
+  margin-bottom: 20px;
+}
